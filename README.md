@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/clausemind-hero.png" alt="ClauseMind AI — 3D project overview" width="100%" />
+<img src="assets/dausemind-hero.png" alt="ClauseMind AI — 3D project overview" width="100%" />
 
 # ClauseMind AI
 ### Intelligent Contract Analysis & Solidity Screening
